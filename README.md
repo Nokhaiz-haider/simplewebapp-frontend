@@ -9,7 +9,9 @@ v16.15.1
 
 In the browser, you can run after running project:
 ### `/` => Login Page
+
 ### `/signup` => Signup Page
+
 ### `/products` => Products Page with User Info
 
 ## Available Scripts
